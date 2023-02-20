@@ -122,16 +122,16 @@ navigation: widget
 # are set to "true" (they can also be overridden).
 strings:
     productName:         "@{NAME}"
-    shortProductName:    Arcofly Linux
+    shortProductName:    Claro Linux
     version:             2023-01
     #shortVersion:        
-    versionedName:       Arcofly Linux 
-    shortVersionedName:  Arcofly Linux
-    bootloaderEntryName: Arcofly Linux
-    #productUrl:          https://Arcofly-linux.uz/
-    #supportUrl:          https://github.com/Arcofly/Arcofly-linux/wiki
-    #knownIssuesUrl:      https://github.com/Arcofly/Arcofly-linux/issues
-    #releaseNotesUrl:     https://Arcofly.uz/news/
+    versionedName:       Claro Linux 
+    shortVersionedName:  Claro Linux
+    bootloaderEntryName: Claro Linux
+    productUrl:          https://claro.uz/
+    supportUrl:          https://github.com/arcofly/claro/wiki
+    knownIssuesUrl:      https://github.com/arcofly/claro/issues
+    releaseNotesUrl:     https://claro.uz/news/
     #donateUrl:           https://kde.org/community/donations/index.php
 
 # These images are loaded from the branding module directory.
